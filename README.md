@@ -67,7 +67,7 @@ The solution performs:
 
 # Automation Log
 
-![Automation Log](assets/automation-log.png)
+![Automation Log](assets/AUTOMATION_LOG_EXPORT.csv)
 
 ---
 
