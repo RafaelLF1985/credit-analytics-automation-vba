@@ -61,7 +61,7 @@ The solution performs:
 
 # Dashboard Preview
 
-![Dashboard](assets/dashboard-preview.png)
+![Dashboard](assets/Executive_Dashboard.pdf)
 
 ---
 
