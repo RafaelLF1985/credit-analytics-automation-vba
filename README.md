@@ -73,7 +73,7 @@ The solution performs:
 
 # DATABASE
 
-![Workflow](assets/RAW_DATA_EXPORT.csv)
+![Database](assets/RAW_DATA_EXPORT.csv)
 
 ---
 
