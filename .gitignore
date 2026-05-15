@@ -1,1 +1,3 @@
 ~$*.xlsm
+*.tmp
+*.bak
