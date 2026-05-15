@@ -71,9 +71,9 @@ The solution performs:
 
 ---
 
-# Automation Workflow
+# DATABASE
 
-![Workflow](assets/workflow.png)
+![Workflow](assets/RAW_DATA_EXPORT.csv)
 
 ---
 
